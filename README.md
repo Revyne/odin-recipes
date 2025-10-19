@@ -7,5 +7,5 @@ MY GOALS:
     - I will design this website using CSS.  
     - I will learn Java as well.  
 
-As of 2-Aug-2025: I don't know what to do and I hardly remember the syntax of HTML.
+As of 2-Aug-2025: I don't know what to do and I hardly remember the syntax of HTML. <br/>
 As of 19-Oct-2025: Got a new job and don't have enough spare time. Good to be back.
